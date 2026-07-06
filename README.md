@@ -18,6 +18,7 @@ When looking at the data, the data collected goes all the way to the 50s. It has
 
 The first data set that will be analyzed is the genres. In the first pivot table, which is labeled as pivot table 2, it shows the different genres and how many hit songs are categorized in each genre. At a glance, it seems like pop is the most-used genre that many #1 hits use. Also, when looking at the pivot table, it is noticeable that many genres are categorized with other genres. For example, some songs are categorized as Electronic/Dance and Latin. 
 
+![Chart of Popular Genre](Chart1.png)
 
 When looking at the chart, you can see that Pop is the most popular genre. Followed by Funk/Soul and Rock. 
 
@@ -25,7 +26,9 @@ When looking at the chart, you can see that Pop is the most popular genre. Follo
 
 The second pivot table, which is labeled as pivot table 1, goes over the BPM. The BPM that is used in the dataset starts with 16 and ends with 206. It's a little difficult to read the number of songs in each BPM. 
 
-The chart, it shows that most #1 hit songs have a BPM of 120. 
+![BPM Chart](bpm1.png)
+
+The chart, it shows that most #1 hit songs have a BPM of 120. However, most songs in the dataset used a higher BPM. Although BPM doesn't signify higher listeners, it is a factor that overall helps with it. 
 
 ## Ending Summary 
 With this Database, we're able to see the trend of music and the most popular formula that most songs use.  Most hit songs on the Billboard Hot 100 are in the genre of Pop and use a BPM of 120. However, with this information, many labels can use this and create their signed artists to use this formula to gain them traction, but most importantly, profit for the label. 
