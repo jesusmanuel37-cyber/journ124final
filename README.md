@@ -13,3 +13,8 @@ While looking at the Dataset, it doesn't show the number #1 hits of every week a
 
 ## Data Analysis
 When looking at the data, the data collected goes all the way to the 50s. It has multiple factors that it takes for each song such as genre, producers, key, instruments, length, etc. 
+
+For the first data set that will be analyzed is the genres. In the first pivot table, which is labeled as pivot table 2, it shows the different genres and how many hit songs are categorized in each genre. At a glance, it seems like pop is the most-used genre that many #1 hits use. Also when looking at the pivot table, it is noticeable that many genres are categorized with other genres. For example, there are songs that are categorized as Electronic/Dance and Latin. 
+
+When looking at the chart, you can see that Pop is the most popular genre. Followed by Funk/Soul and Rock. 
+
