@@ -1,7 +1,7 @@
 # Making a #1 Hit
 
 ## Introduction 
-Everyone has heard songs on the radio that have become a #1 hit on Billboard's Hot 100, and many artists strive to achieve a #1 hit. As well as their labels wanting to make sure that their artists are making them the most profit. Billboard Hot 100 chart is what many, including labels, check to cont......
+Everyone has heard songs on the radio that have become a #1 hit on Billboard's Hot 100, and many artists strive to achieve a #1 hit. As well as their labels wanting to make sure that their artists are making them the most profit. Billboard Hot 100 chart is what many, including labels, check to see which songs are getting popular. This gets many artists and labels to try to capture some of that popularity to gain popularity in their music and overall artistry.
 With many artists wanting a #1 hit for their own goals or a demand from their labels, we can use the datasheet to check which songs are more likely to reach #1 or a high placement on the Billboard Hot 100s
 
 The data set was collected from Chris Dalla Riva for his book Uncharted Territory and was collected from the Billboard Hot 100 Database.
